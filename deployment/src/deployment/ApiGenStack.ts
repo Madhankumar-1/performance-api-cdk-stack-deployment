@@ -1,3 +1,4 @@
+import { handlersPath } from "@cny-cdk-stack/performance-http-api-stack-nine-lambda";
 import {App, Stack} from "aws-cdk-lib";
 import * as iam from "aws-cdk-lib/aws-iam";
 import * as dynamodb from "aws-cdk-lib/aws-dynamodb";
